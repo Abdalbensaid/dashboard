@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TeleProspect</string>
+    <string name="title_activity_main">TeleProspect</string>
+    <string name="package_name">com.magix.TeleProspect</string>
+    <string name="custom_url_scheme">com.magix.TeleProspect</string>
+</resources>
