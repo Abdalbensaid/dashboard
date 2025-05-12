@@ -1,5 +1,7 @@
 {
   "name": "dashboard",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
